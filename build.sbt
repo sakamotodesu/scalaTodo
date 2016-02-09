@@ -1,4 +1,4 @@
-name := """scalaTodo"""
+name := """scalatodo"""
 
 version := "1.0-SNAPSHOT"
 
