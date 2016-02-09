@@ -14,7 +14,8 @@ libraryDependencies ++= Seq(
   "com.typesafe.play" %% "anorm" % "2.4.0",
   evolutions,
   "org.webjars" %% "webjars-play" % "2.4.0-1",
-  "org.webjars" % "bootstrap" % "3.3.4"
+  "org.webjars" % "bootstrap" % "3.3.4",
+  "org.postgresql" % "postgresql" % "9.4-1201-jdbc41"
 )
 
 resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
